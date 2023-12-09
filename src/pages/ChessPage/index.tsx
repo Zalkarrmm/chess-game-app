@@ -1,7 +1,7 @@
 const ChessGamePage = () => {
   return (
     <div>
-
+      game page
     </div>
   )
 }
